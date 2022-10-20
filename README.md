@@ -5,13 +5,13 @@
 
 <br>
 
-![Alt text](images/q1.png?raw=true "Main Page")
+![Alt text](q1.png?raw=true "Main Page")
 
 <br>
 
 <br>
 
-![Alt text](images/q2.png?raw=true "Main Page")
+![Alt text](q2.png?raw=true "Main Page")
 
 
 ## Used Libraries
