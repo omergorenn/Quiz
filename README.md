@@ -5,14 +5,6 @@
 
 <br>
 
-![Alt text](q1.png?raw=true "Main Page")
-
-<br>
-
-<br>
-
-![Alt text](q2.png?raw=true "Main Page")
-
 
 ## Used Libraries
 
